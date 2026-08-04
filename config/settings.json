@@ -1,0 +1,5 @@
+{
+    "offsetHour": 10,
+    "startOnBoot": true,
+    "shuffle": false
+}
