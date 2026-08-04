@@ -3,7 +3,7 @@
 A lightweight C++ utility for automatically cycling desktop wallpapers throughout the day.
 
 ## Demo
-[]()
+![demo](https://github.com/G3rarrd/Wallpaper-Scheduler/blob/main/readme_assets/wallpaper_scheduler_demo.gif)
 
 ## Overview
 
